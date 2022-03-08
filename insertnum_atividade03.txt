@@ -62,3 +62,10 @@ public class insertnum_A3 {
 }
 
 
+
+
+Analise a ordem dos números exibidos e verifique se estão na mesma forma que foram inseridos. Se a exibição foi diferente, justifique o ocorrido.
+
+O programa desenvolvido pelo aluno e a sua justificativa deverá ser postado em um ambiente virtual. Esse programa será avaliado pelo tutor responsável pela disciplina.
+
+Resposta: Durante a execução fica evidente que a ordem exibida não condiz com a ordem em que foi inserida, pois ao seguir as instruções de remoção no Passo 2, os dados são colocados no fim da Pilha. Ao remover os dados da lista e inserir na pilha temos o resultado 1,2,3,4,5. Quando removidos da pilha e inserido em uma fila o resultado é 5,4,3,2,1. Razão ao qual a ordem exibida é incorreta.
